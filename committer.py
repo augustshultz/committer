@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from subprocess import run
 from argparse import ArgumentParser
 
